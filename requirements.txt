@@ -1,0 +1,4 @@
+flet
+typer[all]
+flet_fastapi
+uvicorn
