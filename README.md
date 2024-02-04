@@ -1,5 +1,10 @@
 [![github](https://img.shields.io/badge/my_profile-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jrxvx)[![pypi](https://img.shields.io/badge/Pypi-0A66C2?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/fast-flet)
 
+> [!IMPORTANT]
+***Better to use this more updated repository with many improvements ->*** https://github.com/Daxexs/flet-easy
+
+---
+
 # 🔥Fast-Flet
 `Fast-Flet` is a package built as a complement to `Flet`, designed for newbies which facilitates the handling of flet events, designed to work with numerous pages of your created application. It also provides a better MVC construction of your code, which can be scalable and easy to read. But it not only limits the MVC model but you can **adapt it according to your preferences**.
 
